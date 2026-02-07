@@ -1,3 +1,6 @@
 [submodule "hexfile-decomposer"]
 	path = hexfile-decomposer
 	url = https://github.com/pseudowasabi/hexfile-decomposer
+[submodule "spring-data-access-examples"]
+	path = spring-data-access-examples
+	url = https://github.com/pseudowasabi/spring-data-access-examples
