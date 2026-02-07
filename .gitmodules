@@ -1,6 +1,3 @@
-[submodule "furniture-fix-request"]
-	path = furniture-fix-request
-	url = https://github.com/pseudowasabi/furniture-fix-request
 [submodule "hexfile-decomposer"]
 	path = hexfile-decomposer
 	url = https://github.com/pseudowasabi/hexfile-decomposer
