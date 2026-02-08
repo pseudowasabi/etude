@@ -4,12 +4,6 @@
 [submodule "spring-data-access-examples"]
 	path = spring-data-access-examples
 	url = https://github.com/pseudowasabi/spring-data-access-examples
-[submodule "operating-system-exercises"]
-	path = operating-system-exercises
-	url = https://github.com/pseudowasabi/operating-system-exercises
-[submodule "computer-vision-exercises"]
-	path = computer-vision-exercises
-	url = https://github.com/pseudowasabi/computer-vision-exercises
 [submodule "bugreport-api-deprecated"]
 	path = bugreport-api-deprecated
 	url = https://github.com/pseudowasabi/bugreport-api-deprecated
